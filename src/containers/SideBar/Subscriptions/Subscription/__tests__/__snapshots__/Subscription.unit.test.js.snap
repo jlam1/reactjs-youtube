@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Subscription Render non-broadcasting Subscription with new videos 1`] = `
+<MenuItem>
+  <div
+    className="subscription"
+  >
+    <div>
+      <Image
+        as="img"
+        avatar={true}
+        src="http://via.placeholder.com/28x28"
+        ui={true}
+      />
+      <span>
+        Subscription Label
+      </span>
+    </div>
+    <span
+      className="new-videos-count"
+    >
+      2
+    </span>
+  </div>
+</MenuItem>
+`;
+
+exports[`Subscription Renders broadcasting Subscription 1`] = `
+<MenuItem>
+  <div
+    className="subscription"
+  >
+    <div>
+      <Image
+        as="img"
+        avatar={true}
+        src="http://via.placeholder.com/28x28"
+        ui={true}
+      />
+      <span>
+        Subscription Label
+      </span>
+    </div>
+    <Icon
+      as="i"
+      name="signal"
+    />
+  </div>
+</MenuItem>
+`;
+
+exports[`Subscription Renders empty Subscription 1`] = `
+<MenuItem>
+  <div
+    className="subscription"
+  >
+    <div>
+      <Image
+        as="img"
+        avatar={true}
+        src="http://via.placeholder.com/28x28"
+        ui={true}
+      />
+      <span />
+    </div>
+  </div>
+</MenuItem>
+`;

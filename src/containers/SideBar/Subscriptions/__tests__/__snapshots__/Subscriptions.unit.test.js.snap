@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Subscriptions Renders 1`] = `
+<Fragment>
+  <Subscription
+    broadcasting={true}
+    label="Academind"
+  />
+  <Subscription
+    amountNewVideos={3}
+    label="ColdFusion"
+  />
+  <Subscription
+    amountNewVideos={10}
+    broadcasting={true}
+    label="Great Big Story"
+  />
+  <Subscription
+    amountNewVideos={1}
+    label="videogamedunkey"
+  />
+  <Subscription
+    label="PictureFit"
+  />
+  <Subscription
+    amountNewVideos={2}
+    label="Android Authority"
+  />
+  <Subscription
+    label="Nintendo"
+  />
+</Fragment>
+`;
