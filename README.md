@@ -10,7 +10,7 @@ Recreating Youtube with live API data with React and proper testing of UI compon
 * Enzyme
 
 ## Why?
-There are alot of useful guides and tutorials that only show how the basics of React's functionality but only a none demonstrating a full production ready package with separation of components or proper testing using Jest or Enzyme.
+There are alot of useful guides and tutorials that only show how the basics of React's functionality but none demonstrating a full production ready package with separation of components or proper testing using Jest or Enzyme.
 
 By using a tutorial (credits below) to follow best practices of how a production ready React application should be developed.
 
