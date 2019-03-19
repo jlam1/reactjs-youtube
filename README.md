@@ -23,4 +23,4 @@ By utilizing Youtube's API to fetch data and passing it into React's components.
 ## Credits and Additional Documentation
 * [Youtube React GitHub Repo by ProductionCoder](https://github.com/productioncoder/youtube-react)
 * [Full Tutorial by ProductionCoder](https://productioncoder.com/build-youtube-in-react-part-1/)
-* 
+* [React Official Documentation](https://reactjs.org/)
