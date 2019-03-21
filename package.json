@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
     "axios": "^0.18.0",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.11.2",
@@ -11,15 +10,11 @@
     "node-sass": "^4.11.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8",
     "react-test-renderer": "^16.8.4",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.86.0"
-=======
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
->>>>>>> adf4392e598fbf60e3b06cc486a1549862e3bfc9
   },
   "scripts": {
     "start": "react-scripts start",

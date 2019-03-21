@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders HeaderNav 1`] = `
+exports[`HeaderNav renders 1`] = `
 <Menu
   borderless={true}
   className="top-menu"
@@ -10,12 +10,16 @@ exports[`renders HeaderNav 1`] = `
     className="logo"
     header={true}
   >
-    <Image
-      as="img"
-      size="tiny"
-      src="logo.jpg"
-      ui={true}
-    />
+    <Link
+      to="/"
+    >
+      <Image
+        as="img"
+        size="tiny"
+        src="logo.jpg"
+        ui={true}
+      />
+    </Link>
   </MenuItem>
   <MenuItem
     className="nav-container"
