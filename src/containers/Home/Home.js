@@ -9,7 +9,7 @@ class Home extends React.Component {
 			<React.Fragment>
 				<SideBar />
 				<div className='home'>
-					<div className='responsive-video-grid-container'>
+					<div className='responsive-video-grid-container box-container'>
 						<VideoGrid title='Trending'/>
 						<VideoGrid title='Auto & Vehicles' hideDivider={true}/>
 					</div>
